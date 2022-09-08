@@ -3,3 +3,8 @@ aws
 terraform
 git
 jenkins
+
+
+cloud watch
+new relic
+
