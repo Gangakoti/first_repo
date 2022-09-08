@@ -7,3 +7,5 @@ resource "aws_instance" "EC2" {
 
   }
 }
+
+terraform program
