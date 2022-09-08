@@ -8,3 +8,7 @@ resource "aws_instance" "ex" {
   servers = 3
 
 } */
+
+
+push my code 
+
